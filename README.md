@@ -1,6 +1,6 @@
-# App template
+# App Landing Website template
 
-GitHub template for a new App website.
+GitHub template for a new App Landing Website.
 
 ## Development
 

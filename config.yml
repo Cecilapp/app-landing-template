@@ -9,10 +9,10 @@ theme:
 applanding:
   buttons:
     - name: Netlify
-      url: https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/repository&stack=cms
+      url: https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/theme-applanding&stack=cms
       image: https://www.netlify.com/img/deploy/button.svg
-  source: https://github.com/Cecilapp/repository
-  documentation: https://github.com/Cecilapp/repository#readme
+  source: https://github.com/Cecilapp/theme-applanding
+  documentation: https://github.com/Cecilapp/theme-applanding#readme
   screenshot:
     desktop:
       light: preview.png
